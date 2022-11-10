@@ -19,7 +19,7 @@ body{
 }
 
 .calc{
-    background-color: red;
+    background-color: rgb(26, 21, 21);
     width: 300px;
     height: 400px;
 }
@@ -29,7 +29,7 @@ body{
 }
 
 .guarda{
-    background-color: blueviolet;
+    background-color: rgb(34, 25, 43);
     height: 50px;
 }
 
@@ -42,6 +42,14 @@ body{
 
 .boton{
     width: 75px;
+    background-color: rgb(74, 74, 153);
+    border: solid 1px black;
+}
+
+.boton-caracter {
+    width: 75px;
+    background-color: grey;
+    border: solid 1px black;
 }
 
 .boton1{
@@ -51,4 +59,16 @@ body{
 .info{
     text-align: center;
 
+}
+
+.cero{
+    background-color: rgb(74, 74, 153);
+}
+
+.letraC{
+    background-color: rgb(37, 193, 193);
+}
+
+.igual{
+    background-color: red;
 }
